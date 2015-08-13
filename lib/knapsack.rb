@@ -19,6 +19,7 @@ require_relative 'knapsack/adapters/cucumber_adapter'
 require_relative 'knapsack/adapters/minitest_adapter'
 require_relative 'knapsack/runners/rspec_runner'
 require_relative 'knapsack/runners/parallel_rspec_runner'
+require_relative 'knapsack/runners/parallel_cucumber_runner'
 require_relative 'knapsack/runners/cucumber_runner'
 require_relative 'knapsack/runners/minitest_runner'
 
